@@ -1,8 +1,5 @@
 # Hi there, I'm Ignace 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=IgnaceMaes)
-[![GitHub followers](https://img.shields.io/github/followers/IgnaceMaes?label=Followers&style=social)](https://github.com/IgnaceMaes)
-
 I'm passionate about technology, coding, and making the digital world a better place. Welcome to my GitHub profile, where I share my projects, contributions, and ideas.
 
 ## About Me
